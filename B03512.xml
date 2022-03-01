@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great feast at the sheep-shearing of the city and citizens, on the 7th. of Iune last consecrated for an Holy Thursday in memorandum of St. Thomas, and St. Oliver; solemnly holden at the Grocers hall, London, 1649. To the tone or garb of the Counter scuffle.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03512</idno>
+            <idno type="STC">Wing G1692</idno>
+            <idno type="STC">ESTC R225422</idno>
+            <idno type="EEBO-CITATION">52211840</idno>
+            <idno type="OCLC">ocm 52211840</idno>
+            <idno type="VID">175690</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03512)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175690)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2746:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great feast at the sheep-shearing of the city and citizens, on the 7th. of Iune last consecrated for an Holy Thursday in memorandum of St. Thomas, and St. Oliver; solemnly holden at the Grocers hall, London, 1649. To the tone or garb of the Counter scuffle.</title>
+                  <author>Nedham, Marchamont, 1620-1678, attributed author.</author>
+               </titleStmt>
+               <extent>1 p. l., 6 p.   </extent>
+               <publicationStmt>
+                  <p>
+                     <name type="place">[London?]</name>
+                     <date>Printed in the Yeare, 1649.</date>
+                  </p>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Attributed to Marchamont Nedham in the Wrenn catalogue.</note>
+                  <note>Reproduction of the original in the University of Texas, Austin Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Poetry.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Pamphlets.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:175690:1"/>
+            <!-- PDF PAGE 91 -->
+            <p>
+               <figure>
+                  <head>JOHN HENRY WRENN.</head>
+                  <figDesc>modern bookplate</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:175690:1"/>
+            <!-- PDF PAGE 91 -->
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:175690:2"/>
+            <!-- PDF PAGE 92 -->
+            <pb facs="tcp:175690:2"/>
+            <!-- PDF PAGE 92 -->
+            <p>THE GREAT FEAST At the Sheep-ſhearing of the City and Citizens, on the 7<hi rend="sup">th.</hi> of <hi>Iune</hi> laſt: Conſecrated for an Holy Thurſday in <hi>Memo<g ref="char:EOLhyphen"/>randum</hi> of St. <hi>Thomas,</hi> and St. <hi>Oliver;</hi> Solemnly holden at the Grocers Hall, <hi>London,</hi> 1649.</p>
+            <p>To the Tone or Garb of the Counter Scuffle.</p>
+            <p>Printed in the Yeare, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:175690:3"/>
+            <!-- PDF PAGE 93 -->
+            <pb n="1" facs="tcp:175690:3"/>
+            <!-- PDF PAGE 93 -->
+            <head>The great Feaſt, at the Sheep-ſhearing of the City and Citizens, on Thurſday the <hi>7.</hi> of Iune laſt.</head>
+            <lg>
+               <l>MY Reader muſt not here ſuppoſe</l>
+               <l>That I will waſte good Verſe or Proſe</l>
+               <l>On <hi>Fairſax</hi> face, or <hi>Cromwels</hi> noſe,</l>
+               <l>Or <hi>Atkins</hi> ſavoury breech;</l>
+               <l>Nor <hi>Skippon</hi> (that almighty Major)</l>
+               <l>Or <hi>Ireton</hi> (commiſſary Rager)</l>
+               <l>Nor will I write (I'le lay a wager)</l>
+               <l>Like <hi>Pembroks</hi> Learned ſpeech.</l>
+            </lg>
+            <lg>
+               <l>The famous Acts of Noble <hi>Hero's,</hi>
+               </l>
+               <l>Great <hi>Englands</hi> brave Renowned <hi>Nero's,</hi>
+               </l>
+               <l>And all their Stout <hi>Biberius Mero's</hi>
+               </l>
+               <l>Behold their entertainment;</l>
+               <l>And if with patience you will read,</l>
+               <l>(If God be pleas'd to ſend good ſpeed)</l>
+               <l>'Tis thought the fates are all agreed</l>
+               <l>To further their araignment.</l>
+            </lg>
+            <lg>
+               <l>Now for the Feaſt, I hold it fit,</l>
+               <l>(Although my ſelfe had not a bit)</l>
+               <l>That ſomething of it ſhould be writ</l>
+               <l>For after imitation;</l>
+               <l>Therefore I'le ſhew the cauſe wherefore</l>
+               <l>This Feaſt was eate, payd for, and more,</l>
+               <l>And not one penny ſet oth' ſcore,</l>
+               <l>(A worthy commendation.)</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:175690:4"/>
+               <!-- PDF PAGE 94 -->
+               <l>Theſe coſts were ſpent to cannonize</l>
+               <l>Thoſe mighty mortall Dieties,</l>
+               <l>Then ſtroak your beards, and wipe your eyes</l>
+               <l>If you'l behold their ſplendor;</l>
+               <l>Then <hi>(Ecce ſignum)</hi> theſe are they</l>
+               <l>Who layd King <hi>Charles</hi> as cold as clay,</l>
+               <l>And by that Act moſt fit they may</l>
+               <l>Be call'd no Faiths Defendor.</l>
+            </lg>
+            <lg>
+               <l>Theſe Worthies have fought for the Cauſe,</l>
+               <l>For our Religion, Lives, and Laws,</l>
+               <l>And ſet us free from Tyrants claws,</l>
+               <l>Now truth and right beares ſway:</l>
+               <l>All Taxes now are layd aſide,</l>
+               <l>Plenty of all things, far and wide</l>
+               <l>Folkes may in peace, both go or ride,</l>
+               <l>The cleane contrary way.</l>
+            </lg>
+            <lg>
+               <l>Theſe, theſe are they, whoſe Noble Actions</l>
+               <l>Purg'd Church and State from putrifactions,</l>
+               <l>Cur'd our diſtempers and diſtractions,</l>
+               <l>And ſet us all in quiet:</l>
+               <l>And have they done for us all this,</l>
+               <l>As th' only Authors of our bliſſe,</l>
+               <l>We held it therefore not amiſſe</l>
+               <l>To give them ſome good diets</l>
+            </lg>
+            <lg>
+               <l>True Citizens, are Cities ſons,</l>
+               <l>Whoſe wit and coine, in plenty runs,</l>
+               <l>Their hogſheads empty many tuns,</l>
+               <l>They are ſuch kinde of folks;</l>
+               <l>For all our troubles they are grac'd,</l>
+               <l>And in the formoſt rancks are plac'd,</l>
+               <l>And all true Pallats them do taſte,</l>
+               <l>Like Eggs that have no yolks.</l>
+            </lg>
+            <lg>
+               <pb n="3" facs="tcp:175690:4"/>
+               <!-- PDF PAGE 94 -->
+               <l>This Army, and this Parliament,</l>
+               <l>Hath been th' Appointed inſtrument</l>
+               <l>To ſave them all from detriment</l>
+               <l>By cowing of their courage.</l>
+               <l>They kiſſe the rod, and love the threaters,</l>
+               <l>They are enamourd of their cheaters,</l>
+               <l>And humbly beg them to be eaters</l>
+               <l>Of Veniſon, Wine, and Burrage.</l>
+            </lg>
+            <lg>
+               <l>But for this feaſts great preparation,</l>
+               <l>And how 'twas kept with Acclamation,</l>
+               <l>I will not wrong your expectation</l>
+               <l>With more delayes or fables.</l>
+               <l>They all prepar'd to cleanſe their ſinne</l>
+               <l>By <hi>Owens</hi> Preach, and <hi>Tom Goodwin,</hi>
+               </l>
+               <l>In Chriſt Church which hath never been</l>
+               <l>Like other Churches ſtables.</l>
+            </lg>
+            <lg>
+               <l>But Chriſt Church was for other beaſts</l>
+               <l>Then Horſes, or horn wanting creaſts,</l>
+               <l>Though Bucks or Stagges be at the feaſts,</l>
+               <l>Yet ſure there were not any.</l>
+               <l>There might be Athieſts there perhaps</l>
+               <l>(Who fear not Heavens great thunder claps)</l>
+               <l>Nor think hells all devouring chaps</l>
+               <l>Will ſwallow half ſo many.</l>
+            </lg>
+            <lg>
+               <l>Yet at theſe Preachments and ſweet prayers</l>
+               <l>There were Beaſts, Tygers, Wolves and Beares,</l>
+               <l>And greedy dogs with prick'd up eares,</l>
+               <l>But not one Royall Lion:</l>
+               <l>Some aſles and ſome crafty Foxes,</l>
+               <l>Who hide ſtolne treaſure in their boxes,</l>
+               <l>And ſome that pleasd their dells and Doxeys</l>
+               <l>With muſick like <hi>Arion.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:175690:5"/>
+               <!-- PDF PAGE 95 -->
+               <l>The Preachers very zealouſly</l>
+               <l>Mock'd God (with thanks for victory,</l>
+               <l>And <hi>Popham came triumphantly</hi>
+               </l>
+               <l>Well beaten from <hi>Kinſale.</hi>
+               </l>
+               <l>But after three houres long digreſſings,</l>
+               <l>The Levites ſalved all Trangreſſings,</l>
+               <l>And gave them Independent bleſſings</l>
+               <l>By whole ſale and Retale.</l>
+            </lg>
+            <lg>
+               <l>The Pomp of theſe moſt Pompous ſinners</l>
+               <l>From Heavenly food to Earthly dinners,</l>
+               <l>Gaz'd on by Oyſter wives and Spinners,</l>
+               <l>And Porters in abowndance.</l>
+               <l>Fine ſilken fools, brave golden gulls,</l>
+               <l>Some modeſt maids, ſome ſhameleſſe Trulls,</l>
+               <l>And Trumpeters neere ſplit their ſculls</l>
+               <l>With noiſe would make a Hownd dance.</l>
+            </lg>
+            <lg>
+               <l>The Marſhall mounted on his Steed</l>
+               <l>(With care Prudentiall, and good heed)</l>
+               <l>Uſher'd the Heard where they might feed,</l>
+               <l>Of people made two hedges:</l>
+               <l>Next whom the Grocers Livery men,</l>
+               <l>The Common Councell followed then,</l>
+               <l>Which all appeared (to myken)</l>
+               <l>Like Beetles, Blocks, and Wedges.</l>
+            </lg>
+            <lg>
+               <l>The Officers and Squires before,</l>
+               <l>(With needleſſe creatures many more)</l>
+               <l>And one a Cap of Maintenance wore,</l>
+               <l>And in his hand a ſword,</l>
+               <l>Which never man in anger drew:</l>
+               <l>For had they drawn it juſt and true,</l>
+               <l>Then never had the damned crue</l>
+               <l>Deſtroy'd our Soveraigne Lord.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:175690:5"/>
+               <!-- PDF PAGE 95 -->
+               <l>Next that the Mayor of <hi>London</hi> rode,</l>
+               <l>His Horſe and He had each their Load</l>
+               <l>Whoſe Lordſhips both, gave many a nod</l>
+               <l>To people as he paſſes.</l>
+               <l>His Scarlet gown his beck did beare,</l>
+               <l>And 'bout his neck he then did weare,</l>
+               <l>A bunch of Jewells rich and deare,</l>
+               <l>Hang'd in a collar of Aſſes.</l>
+            </lg>
+            <lg>
+               <l>The City muſick ſweetly fidled,</l>
+               <l>And Bells (in Changes) rung and ridled,</l>
+               <l>Whilſt on their Palfries they down didled</l>
+               <l>Through Cheapſides famous ſtreet.</l>
+               <l>I tell you that the like wasn'er</l>
+               <l>Since <hi>Williams</hi> raigne (the Conquerere)</l>
+               <l>And ne'r will be the like I feare,</l>
+               <l>'Tis better fortune greet.</l>
+            </lg>
+            <lg>
+               <l>Then follow'd <hi>Englands</hi> Pompey <hi>(Tom)</hi>
+               </l>
+               <l>And his Commander (<hi>Well</hi> com <hi>Crom</hi>)</l>
+               <l>Whoſe ſights the people (thither com)</l>
+               <l>With foure houres ſtay expected,</l>
+               <l>But they with th' Speaker and the Mace,</l>
+               <l>Diſdain'd the multitude to grace</l>
+               <l>With one good glance of one good face,</l>
+               <l>Which made them diſaffected.</l>
+            </lg>
+            <lg>
+               <l>For ſome ſaid <hi>Toms</hi> was black and blue,</l>
+               <l>And <hi>Nols</hi> was of a crimſon hue,</l>
+               <l>And each of them lookt like a Jew</l>
+               <l>That murdered had their Chriſt.</l>
+               <l>For ſure they can have no excuſe</l>
+               <l>For their inhumane baſe abuſe,</l>
+               <l>Their Kings and good mens blood to ſince,</l>
+               <l>The Dee'l them all entis'd.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:175690:6"/>
+               <!-- PDF PAGE 96 -->
+               <l>Thus they in triumph paſt along</l>
+               <l>Through deere Cheapeſide, and all the throng,</l>
+               <l>Whilſt thouſand curſes was the ſong</l>
+               <l>Which bleſt them as they went;</l>
+               <l>At Grocers Hall, they grocely fed,</l>
+               <l>With which their paunches out were ſpread,</l>
+               <l>Whilſt thouſands ſtarve for want of bread,</l>
+               <l>Let's thanke the Parliament.</l>
+            </lg>
+            <lg>
+               <l>Neere forty Bucks, theſe Holy Ones</l>
+               <l>Devour'd, and left the dogs the bones,</l>
+               <l>And Muſick grac'd with Tunes and Tones,</l>
+               <l>This <hi>Bacchanalian</hi> Feaſt:</l>
+               <l>And after that, a Banquet came</l>
+               <l>Of ſweet meates of rare forme and frame,</l>
+               <l>Of Caſtles, Towres, and Forts of Fame,</l>
+               <l>More then can be expreſt.</l>
+            </lg>
+            <lg>
+               <l>But one thing now to minde I call,</l>
+               <l>They lackt a Marchpane like White-Hall,</l>
+               <l>
+                  <gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>e which a Scaffold ſquare and tall,</l>
+               <l>And on it a good King;</l>
+               <l>And there his head to be off chop'd,</l>
+               <l>And all his Branches bravely lop'd,</l>
+               <l>How three great Kingdomes bliſſe was crop'd;</l>
+               <l>This had been a fine thing.</l>
+            </lg>
+            <lg>
+               <l>Thus with the Ordnance thundring rore,</l>
+               <l>My muſe is mute, I muſt give ore,</l>
+               <l>Whilſt <hi>Englands</hi> woes good men deplore,</l>
+               <l>Whilſt Tyrants feaſt with joy;</l>
+               <l>But I deſire, that every one</l>
+               <l>Would humbly pray to God alone</l>
+               <l>To ſet the ſecond <hi>Charles</hi> on's Throne,</l>
+               <l>And all our Griefes deſtroy.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175690:6"/>
+            <!-- PDF PAGE 96 -->
+         </div>
+      </body>
+   </text>
+</TEI>
